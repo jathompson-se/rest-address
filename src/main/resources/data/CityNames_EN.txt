@@ -1,0 +1,138 @@
+Lexington-Fayette
+Scottsdale
+Pittsburgh
+Honolulu
+Orlando
+Seattle
+Reno
+Riverside
+Baton Rouge
+San Jose
+Boise
+Omaha
+Chesapeake
+Chula Vista
+Columbus
+Durham
+North Hempstead
+Dallas
+Cleveland
+Charlotte
+Laredo
+St. Petersburg
+St. Paul
+Lincoln
+Corpus Christi
+Phoenix
+Modesto
+San Antonio
+San Diego
+Hialeah
+Long Beach
+New Orleans
+Oakland
+Fresno
+Los Angeles
+Madison
+Henderson
+Tulsa
+Bakersfield
+Newark
+Boston
+Montgomery
+Indianapolis
+Albuquerque
+New York
+Washington
+St. Louis
+Tucson
+Atlanta
+Birmingham
+Nashville-Davidson
+Las Vegas
+Akron
+Colorado Springs
+Santa Ana
+Fort Worth
+Greensboro
+Mesa
+Denver
+Buffalo
+Raleigh
+Portland
+Virginia Beach
+Norfolk
+Tampa
+El Paso
+Plano
+San Francisco
+Houston
+Anaheim
+Memphis
+Chicago
+Cincinnati
+Milwaukee
+Philadelphia
+Miami
+Toledo
+Kansas City
+Baltimore
+Anchorage
+Fort Wayne
+Sacramento
+Huntington
+Aurora
+Jersey City
+Arlington
+Lubbock
+Chandler
+Stockton
+Oklahoma City
+Jacksonville
+Austin
+Wichita
+Rochester
+Garland
+San Bernardino
+Minneapolis
+Glendale
+Detroit
+Arlington
+Scotty's Junction
+Truth or Consequences
+Hagåtña
+Castañer
+Bachelor's Cove
+Bishop's Itchington
+Hog's Back Bridge
+King of Prussia
+Pratt's Bottom
+Voorhees
+stockton
+oklahoma city
+jacksonville
+austin
+wichita
+rochester
+garland
+san bernardino
+minneapolis
+glendale
+detroit
+arlington
+scotty's junction
+truth or consequences
+STOCKTON
+OKLAHOMA CITY
+JACKSONVILLE
+AUSTIN
+WICHITA
+ROCHESTER
+GARLAND
+SAN BERNARDINO
+MINNEAPOLIS
+GLENDALE
+DETROIT
+ARLINGTON
+SCOTTY'S JUNCTION
+TRUTH OR CONSEQUENCES

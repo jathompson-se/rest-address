@@ -1,0 +1,138 @@
+Fresnillo
+Altamira
+Ocosingo
+Ciudad Madero
+Jiutepec
+Córdoba	Veracruz
+Poza Rica
+Comalcalco
+Zamora
+San Cristobal de las Casas
+Huimanguillo
+Lázaro Cárdenas	Michoacán
+San Luis Río Colorado
+Cuautla
+Chicoloapan053
+Silao
+Guanajuato
+Zinacantepec
+Ciudad Valles
+Manzanillo
+Allende
+Guadalupe
+Zumpango
+Solidaridad
+Papantla
+Minatitlán
+Navojoa
+San Andrés Tuxtla
+San Juan Bautista Tuxtepec
+Zitácuaro
+Cuauhtémoc
+Lagos de Moreno
+Macuspana
+Piedras Negras
+Tulancingo
+Pénjamo
+Guaymas
+Dolores
+Almoloya de Juárez
+Colima
+García
+Tuxpan
+Corregidora
+Ixtlahuaca de Rayón
+San Martín Texmelucan
+Valle de Santiago
+Lerdo
+Comitán
+Iguala
+Cuautitlán
+El Salto
+Zacatecas
+Boca del Río
+Delicias
+Acuña
+Acolman
+Tepatitlán
+Navolato
+Lerma
+Mineral de la Reforma
+Atlixco
+Cunduacán
+Bahía de Banderas
+Apatzingán
+Huejutla de Reyes
+San Pedro Garza García
+San Felipe del Progreso
+Orizaba
+Chilapa de Álvarez
+San Pedro Cholula
+Villa de Álvarez
+Río Bravo
+Zihuatanejo de Azueta
+Cosoleacaque
+Hidalgo	Michoacán
+El Marqués
+El Mante
+San Luis de la Paz
+Nacajuca
+San Francisco del Rincón
+Tecoman
+Chilón
+Las Margaritas
+Acambaro
+Temixco
+Palenque
+Matamoros
+Hidalgo del Parral
+San Felipe
+Temapache
+Taxco
+Tula de Allende
+San Pedro
+Centla
+Tantoyuca
+Martínez de la Torre
+Tecate
+Amozoc
+Zapotlán el Grande
+San Andrés Cholula
+fresnillo
+altamira
+ocosingo
+ciudad madero
+jiutepec
+córdoba	veracruz
+poza rica
+comalcalco
+zamora
+san cristobal de las casas
+huimanguillo
+lázaro cárdenas	michoacán
+san luis río colorado
+cuautla
+chicoloapan053
+silao
+guanajuato
+zinacantepec
+ciudad valles
+FRESNILLO
+ALTAMIRA
+OCOSINGO
+CIUDAD MADERO
+JIUTEPEC
+CÓRDOBA	VERACRUZ
+POZA RICA
+COMALCALCO
+ZAMORA
+SAN CRISTOBAL DE LAS CASAS
+HUIMANGUILLO
+LÁZARO CÁRDENAS	MICHOACÁN
+SAN LUIS RÍO COLORADO
+CUAUTLA
+CHICOLOAPAN053
+SILAO
+GUANAJUATO
+ZINACANTEPEC
+CIUDAD VALLES

@@ -1,0 +1,96 @@
+Aguascalientes
+Baja California
+Baja California Sur
+Chihuahua
+Colima
+Campeche
+Coahuila
+Chiapas
+Federal District
+Durango
+Guerrero
+Guanajuato
+Hidalgo
+Jalisco
+México State
+Michoacán
+Morelos
+Nayarit
+Nuevo León
+Oaxaca
+Puebla
+Querétaro
+Quintana Roo
+Sinaloa
+San Luis Potosí
+Sonora
+Tabasco
+Tlaxcala
+Tamaulipas
+Veracruz
+Yucatán
+Zacatecas
+aguascalientes
+baja california
+baja california sur
+chihuahua
+colima
+campeche
+coahuila
+chiapas
+federal district
+durango
+guerrero
+guanajuato
+hidalgo
+jalisco
+méxico state
+michoacán
+morelos
+nayarit
+nuevo león
+oaxaca
+puebla
+querétaro
+quintana roo
+sinaloa
+san luis potosí
+sonora
+tabasco
+tlaxcala
+tamaulipas
+veracruz
+yucatán
+zacatecas
+AGUASCALIENTES
+BAJA CALIFORNIA
+BAJA CALIFORNIA SUR
+CHIHUAHUA
+COLIMA
+CAMPECHE
+COAHUILA
+CHIAPAS
+FEDERAL DISTRICT
+DURANGO
+GUERRERO
+GUANAJUATO
+HIDALGO
+JALISCO
+MÉXICO STATE
+MICHOACÁN
+MORELOS
+NAYARIT
+NUEVO LEÓN
+OAXACA
+PUEBLA
+QUERÉTARO
+QUINTANA ROO
+SINALOA
+SAN LUIS POTOSÍ
+SONORA
+TABASCO
+TLAXCALA
+TAMAULIPAS
+VERACRUZ
+YUCATÁN
+ZACATECAS
